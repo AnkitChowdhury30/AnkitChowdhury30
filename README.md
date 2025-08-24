@@ -43,7 +43,7 @@ I love solving problems, contributing to open source, and working on real-world 
 
 ## 📫 Connect With Me  
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ankit-chowdhury-aec/))  
+- LinkedIn: [Ankit Chowdhury](https://www.linkedin.com/in/ankit-chowdhury-aec/))  
 - Email: ankitchowdhury550gmail.com 
 
 ---
