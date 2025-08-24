@@ -26,10 +26,9 @@ I love solving problems, contributing to open source, and working on real-world 
 ## 📌 Projects  
 
 - **📝 NoteBuddy** – Secure note management app with JWT authentication and CRUD features.  
-- **💼 Job Portal App** – A job portal built with React (frontend) and Spring Boot (backend).  
-- **🦠 COVID-19 X-ray Classifier** – ML project using PCA + SVM, Flask for frontend.  
+- **💼 Job Portal App** – A job portal built with React (frontend) and Spring Boot (backend).    
 - **💬 Real-time Chat App** – MERN + Socket.io + Cloudinary image upload + JWT Auth.  
-- **📊 Quiz App** – MERN-based quiz platform with authentication, quiz management, leaderboards, and analytics.  
+
 
 
 
@@ -44,7 +43,7 @@ I love solving problems, contributing to open source, and working on real-world 
 
 ## 📫 Connect With Me  
 
-- LinkedIn: [Your LinkedIn Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ankit-chowdhury-aec/))  
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ankit-chowdhury-aec/))  
 - Email: ankitchowdhury550gmail.com 
 
 ---
