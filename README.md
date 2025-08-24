@@ -2,7 +2,7 @@
 
 💻 **MERN Stack Developer | Full-Stack Enthusiast | Lifelong Learner**  
 
-I’m a 3rd-year B.Tech student passionate about building full-stack web applications with **MongoDB, Express.js, React, and Node.js**.  
+I’m a Final-year B.Tech student passionate about building full-stack web applications with **MongoDB, Express.js, React, and Node.js**.  
 I love solving problems, contributing to open source, and working on real-world projects that make an impact.  
 
 ---
@@ -10,7 +10,7 @@ I love solving problems, contributing to open source, and working on real-world 
 ## 🚀 Tech Stack  
 
 ### 🌐 Frontend  
-- React.js | Redux | JavaScript (ES6+) | HTML5 | CSS3 | Tailwind CSS | Bootstrap  
+- React.js | Redux | JavaScript (ES6+) | HTML5 | CSS3 | Tailwind CSS  
 
 ### 🔧 Backend  
 - Node.js | Express.js | REST APIs | Socket.io  
@@ -31,23 +31,22 @@ I love solving problems, contributing to open source, and working on real-world 
 - **💬 Real-time Chat App** – MERN + Socket.io + Cloudinary image upload + JWT Auth.  
 - **📊 Quiz App** – MERN-based quiz platform with authentication, quiz management, leaderboards, and analytics.  
 
-Check more on my [repositories](https://github.com/your-username).  
+
 
 ---
 
 ## 📈 GitHub Stats  
 
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnkitChowdhury30&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitChowdhury30&layout=compact&theme=radical)  
 
 ---
 
 ## 📫 Connect With Me  
 
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
-- Portfolio: [Your Portfolio Website](https://your-portfolio-link.com)  
-- Email: your.email@example.com  
+- LinkedIn: [Your LinkedIn Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ankit-chowdhury-aec/))  
+- Email: ankitchowdhury550gmail.com 
 
 ---
 
-⭐️ From [Ankit Chowdhury](https://github.com/your-username)  
+⭐️ From [Ankit Chowdhury](https://github.com/Ankitchowdhury30)  
