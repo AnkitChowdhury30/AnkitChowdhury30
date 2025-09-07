@@ -5,6 +5,8 @@
 I’m a Final-year B.Tech student passionate about building full-stack web applications with **MongoDB, Express.js, React, and Node.js**.  
 I love solving problems, contributing to open source, and working on real-world projects that make an impact.  
 
+### 👀 Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=AnkitChowdhury30&color=blue)
 ---
 
 ## 🚀 Tech Stack  
@@ -36,8 +38,7 @@ I love solving problems, contributing to open source, and working on real-world 
 ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnkitChowdhury30&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitChowdhury30&layout=compact&theme=radical)  
 
-### 👀 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=AnkitChowdhury30&color=blue)
+
 
 ---
 
