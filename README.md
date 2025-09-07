@@ -29,9 +29,6 @@ I love solving problems, contributing to open source, and working on real-world 
 - **💼 Job Portal App** – A job portal built with React (frontend) and Spring Boot (backend).    
 - **💬 Real-time Chat App** – MERN + Socket.io + Cloudinary image upload + JWT Auth.  
 
-
-
-
 ---
 
 ## 📈 GitHub Stats  
@@ -39,13 +36,16 @@ I love solving problems, contributing to open source, and working on real-world 
 ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnkitChowdhury30&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitChowdhury30&layout=compact&theme=radical)  
 
+### 👀 Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=AnkitChowdhury30&color=blue)
+
 ---
 
 ## 📫 Connect With Me  
 
-- LinkedIn: [Ankit Chowdhury](https://www.linkedin.com/in/ankit-chowdhury-aec/) 
-- Email: ankitchowdhury550gmail.com 
+- LinkedIn: [Ankit Chowdhury](https://www.linkedin.com/in/ankit-chowdhury-aec/)  
+- Email: ankitchowdhury550@gmail.com  
 
 ---
 
-⭐️ From [Ankit Chowdhury](https://github.com/Ankitchowdhury30)  
+⭐️ From [Ankit Chowdhury](https://github.com/AnkitChowdhury30)  
